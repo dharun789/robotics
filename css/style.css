@@ -1,0 +1,152 @@
+.navbar-image{
+    height: 80px;
+    width: 100px;
+}
+
+.poster{
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.h{
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: aqua;
+}
+
+.p{
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.block{
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.list {
+    list-style-type: disc;
+    color: #3ee0b8;
+  }
+  
+.theme-list {
+    list-style-type: square;
+    color: #ffffff;
+  }
+
+.icon{
+    height: 20px;
+    width: 20px;
+}
+
+.image{
+    height: 200px;
+    width: 200px;
+}
+
+
+.faculties-h{
+    font-family: "sans-serif";
+    font-size: 28px;
+    font-weight: 200;
+    padding: 8px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.faculties-h2{
+    font-family: "sans-serif";
+    font-size: 24px;
+    font-weight: 200;
+    text-align: center;
+    color: aliceblue;
+}
+
+.faculties-h3{
+    font-family: "sans-serif";
+    font-size: 20px;
+    font-weight: 200;
+    text-align: center;
+    color: aliceblue;
+}
+
+.faculties-p{
+    font-family: "sans-serif";
+    font-size: 20px;
+    font-weight: 200;
+    text-align: center;
+    color: #fff;
+}
+
+.button {
+    color: #ff9f00;
+    background-color: #ffffff;
+    font-family: "sans-serif";
+    font-size: 16px;
+    width: 134px;
+    height: 48px;
+    border-width: 0;
+    border-radius: 100px;
+}
+
+.image-theme{
+    width: 500px;
+    height: 400px;
+}
+
+.theme-h{
+    color: #ffffff;
+}
+
+
+.table{
+    border-width: 1px;
+    border-color: azure;
+    padding: 10px;
+}
+
+.contactus-image{
+    height: 48px;
+    margin-right: 15px;
+}
+
+.prize-image{
+    height: 400px;
+}
+
+.glow{
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate; 
+}
+
+@-webkit-keyframes glow{
+
+    from {
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+      }
+      to {
+        text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+      };
+}
+
+.footer{
+    font-family: sans-serif;
+    color: aliceblue;
+    font-size: 18px;
+    text-align: center;
+}
+
+.h-line{
+    background-color: #fff;
+    height: 1px;
+}
